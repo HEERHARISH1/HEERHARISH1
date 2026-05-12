@@ -237,11 +237,11 @@ Desktop application for complete gym operations management with member tracking 
 
 ## 🏆 Certifications
 
-- **Neural Networks and Deep Learning** — Coursera (DeepLearning.AI)
-- **Python for Data Science** — Coursera (IBM)
-- **Machine Learning Specialization** — Coursera (Stanford University)
-- **Web Development Bootcamp** — Udemy
-- **Docker & Kubernetes** — Udemy
+- Aspire Leaders Program — Cohort 2 (Accepted, May 2026): International leadership development program
+- Agentic AI Internship (Completed)
+- Python Programming — Udemy (Certified 2023)
+- Graphic Design Certificate — Blunder Bot Technologies (1-year internship)
+
 
 ---
 
